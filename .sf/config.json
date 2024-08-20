@@ -1,4 +1,4 @@
 {
-  "target-dev-hub": "deploy-to-sfdx",
+  "target-dev-hub": "storm.8fff55fec79799@salesforce.com",
   "target-org": "hub"
 }
