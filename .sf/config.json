@@ -1,3 +1,4 @@
 {
-  "target-dev-hub": "deploy-to-sfdx"
+  "target-dev-hub": "deploy-to-sfdx",
+  "target-org": "hub"
 }
